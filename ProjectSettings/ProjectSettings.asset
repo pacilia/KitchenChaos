@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 06fc1eda635558d48b030e546a6929e8
+  productGUID: 5e7ad30d24a23ca409e4ae7447e6f048
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -909,10 +909,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: fd094b06-a1d4-4a70-9263-609253d6746e
+  cloudProjectId: 5d407d14-47b7-4ca6-8c13-0e9558c8af24
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: KitchenChaos
+  projectName: KitchenChaos 2024-10-17_15-58-24
   organizationId: pacilia
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
