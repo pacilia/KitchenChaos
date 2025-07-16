@@ -6,12 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="aa9e5b97-61e6-4cd9-944d-5f596e241be8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.KitchenChaos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.KitchenChaos/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Counters/ClearCounter.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Counters/ClearCounter.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/KitchenObjects/CheeseBlock.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/KitchenObjects/CheeseBlock.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/KitchenObjects/Tomato.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/KitchenObjects/Tomato.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ClearCounter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ClearCounter.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/KitchenObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/KitchenObject.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +104,8 @@
       <workItem from="1748311993816" duration="1764000" />
       <workItem from="1748484433995" duration="3062000" />
       <workItem from="1750149022009" duration="1462000" />
-      <workItem from="1750317700070" duration="1507000" />
+      <workItem from="1750317700070" duration="2276000" />
+      <workItem from="1751874078225" duration="1193000" />
     </task>
     <servers />
   </component>
